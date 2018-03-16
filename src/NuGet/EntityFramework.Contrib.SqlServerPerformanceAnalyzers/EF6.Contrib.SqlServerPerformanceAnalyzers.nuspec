@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata schemaVersion="2">
+    <id>EF6.Contrib.SqlServerPerformanceAnalyzers</id>
+    <version>1.0.5</version>
+    <authors>Unai Zorrilla Castro</authors>
+    <owners>Entity Framework Contrib</owners>
+    <projectUrl>https://ef6contrib.codeplex.com/</projectUrl>
+    <licenseUrl>https://ef6contrib.codeplex.com/license</licenseUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>Some Sql Server performance analyzers to be used with the Performance Interceptor.</description>
+    <summary>Some Sql Server performance analyzers to be used with the Performance Interceptor.</summary>
+    <language>en-US</language>
+    <tags>EF6.Contrib Contrib EntityFramework EF6 Performance Analyzers Interceptor</tags>
+    <dependencies>
+      <group>
+        <dependency id="EF6.Contrib" version="1.0.4"/>
+      </group>
+    </dependencies>
+  </metadata>
+</package>
